@@ -12,8 +12,8 @@ We'll cover key concepts, benefits, downsides, and specific examples of setting 
 
 The content is split into a couple of pillars ->
 
-1. Baseline concepts -> Start here if you don't know what an RTOS _is_,
-2. Zephyr targetted information -> Start here if you want to dive in to Zephyr.
+1. [Starter Series](starter/) -> Start here if you don't know what an RTOS _is_,
+2. [Zephyr targetted information](zephyr/) -> Start here if you want to dive in to Zephyr.
 
 ## Tools
 
