@@ -95,6 +95,8 @@ The bleeding edge. Features may be added or be changed, items may be deprecated
 
 <!-- tabs:end -->
 
+[Above overview from here](https://www.zephyrproject.org/wp-content/uploads/2023/05/Zephyr-Overview-2023Q1-Master.pdf)
+
 ---
 
 ## How does it work?
@@ -107,5 +109,7 @@ These systems are driven by CMake.
 As a high level overview, the configuration phase looks something like this ->
 
 ![CMake configuration phase](https://docs.zephyrproject.org/latest/_images/build-config-phase.svg)
+
+[Above image from here](https://docs.zephyrproject.org/latest/build/cmake/index.html)
 
 We'll get into what these systems are and what they do over the next few pages...
