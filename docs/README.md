@@ -4,6 +4,10 @@ So, you've decided to explore the world of Real-Time Operating Systems!
 
 > [!WARNING]
 > The content here is still being built up. Here be dragons!
+>
+> In its current form, it is intended to be run through Ad-Hoc as a group with a lot of context and explainers added verbally.
+>
+> Exercises will also be determined on the day based on the group and the respective level they're working at, tailored to each user.
 
 ## What does this cover?
 
@@ -17,4 +21,6 @@ The content is split into a couple of pillars ->
 
 ## Tools
 
-We will be using a handful of development kits with this material. Ultimately the course could be run on any of them, but if you can try to at least pick up some kits from multiple vendors at least so that you can compare the difference between them.
+We will eventually be using a handful of development kits with this material. Ultimately the course could be run on any of them, but you should try to pick up some kits from multiple vendors so that you can compare the difference between them.
+
+In the first instance, we'll focus on Nordic Semiconductor.

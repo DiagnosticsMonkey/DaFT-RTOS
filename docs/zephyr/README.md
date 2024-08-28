@@ -6,4 +6,4 @@ Welcome to the Zephyr Series, here we are going to go through some of the fundam
 
 - [What is Zephyr?](zephyr/what)
 - [What is DeviceTree?](zephyr/devicetree)
-- [What is KConfig](zephyr/kconfig)
+- [What is KConfig?](zephyr/kconfig)
