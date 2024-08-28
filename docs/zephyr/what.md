@@ -48,7 +48,7 @@ Membership effectively allows them participation on steering committees as follo
 
 ## Releases
 
-There are three primary release streams that are interrelated.
+There are three primary release streams that are interrelated. A release can be thought of as a repository of source code at a given verison.
 
 ```mermaid
 %%{init: {'logLevel': 'debug', 'theme': 'dark'}}%%
@@ -61,7 +61,7 @@ graph LR
     AUDIT --> CertRe(Certifiable Release)
 ```
 
-You'll `mostly likely` use the LTS release for product development as it's stable.
+You'll `mostly likely` use the LTS release for product development as it's `stable`.
 
 <!-- tabs:start -->
 

@@ -4,6 +4,6 @@ Welcome to the Zephyr Series, here we are going to go through some of the fundam
 
 ## Topics
 
-- [What is Zephyr?](IN-CONSTRUCTION.md)
-- [What is Device Tree?](IN-CONSTRUCTION.md)
-- [What is KConfig?](IN-CONSTRUCTION.md)
+- [What is Zephyr?](zephyr/what)
+- [What is DeviceTree?](zephyr/devicetree)
+- [What is KConfig](zephyr/kconfig)
