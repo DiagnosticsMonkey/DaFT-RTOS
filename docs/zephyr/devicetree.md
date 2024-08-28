@@ -77,7 +77,7 @@ The following are examples of content for each of the file types.
 >[!ATTENTION|style:flat|label:Call to action]
 >Trace through from a board DTS, through to the SoC, via the includes files.
 >
->Looking at the underlying peripherals and comparing to the datasheet, we can see how the abstraction system ultimately maps peripherals to our registers.
+>Looking at the underlying peripherals and compare to the datasheet. We can see how the abstraction system ultimately maps peripherals to our registers.
 >
 >![Memory mapping for WDT0](wdt0mem.png)
 

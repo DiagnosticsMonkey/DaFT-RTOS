@@ -101,7 +101,7 @@ The bleeding edge. Features may be added or be changed, items may be deprecated
 
 ### The build and configuration system
 
-Zephyr borrows a couple of features from the Linux Kernel, notably Devicetree and KConfig. The Devicetree handles the hardware aspects, whilst KConfig handles a lot of the source code aspects.  
+Zephyr borrows a couple of features from the Linux Kernel, notably Devicetree and Kconfig. The Devicetree handles the hardware aspects, whilst Kconfig handles a lot of the source code aspects.  
 These systems are driven by CMake.
 
 As a high level overview, the configuration phase looks something like this ->
