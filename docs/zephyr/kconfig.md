@@ -8,7 +8,7 @@ The output from Kconfig is a header file autoconf.h with macros that can be test
 
 [The above is from here](https://docs.zephyrproject.org/latest/build/kconfig/index.html).
 
---
+---
 
 ## What are Kconfig files?
 
@@ -24,7 +24,7 @@ The initial configuration for an application comes from merging configuration se
 [The above is from here](https://docs.zephyrproject.org/latest/build/kconfig/setting.html).
 
 > [!ATTENTION]
->`prj.conf` is a mandatory file in your project; tf it does not exist then a fatal error will occur.
+>`prj.conf` is a mandatory file in your project; if it does not exist then a fatal error will occur.
 
 ### Example
 

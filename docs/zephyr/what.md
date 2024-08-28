@@ -101,6 +101,11 @@ The bleeding edge. Features may be added or be changed, items may be deprecated
 
 ## How does it work?
 
+>[!TIP|style:flat|label:Recommendation]
+>It is highly recommended to go through the [Nordic DevAcademy Fundamentals](https://academy.nordicsemi.com/courses/nrf-connect-sdk-fundamentals/) course. The nRF SDK makes use of Zephyr
+>
+>The content over the next few pages, at this point in time, is effectively a short-form version designed for a singular purpose as an `overview` for an in-person event. In the current form, it acts as a ramp so we can get on with a deeper dive through the fileset.
+
 ### The build and configuration system
 
 Zephyr borrows a couple of features from the Linux Kernel, notably Devicetree and Kconfig. The Devicetree handles the hardware aspects, whilst Kconfig handles a lot of the source code aspects.  
